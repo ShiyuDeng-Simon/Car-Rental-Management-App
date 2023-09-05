@@ -1,0 +1,100 @@
+{"listings": [
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2022,
+            "model": "Q7",
+            "type": "SUV",
+            "plateNum": "sjonve",
+            "make": "Audi",
+            "seats": 5
+        },
+        "price": 500,
+        "pickupLocation": "Vancouver"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2019,
+            "model": "Hurricane",
+            "type": "Sports Car",
+            "plateNum": "adfgsj",
+            "make": "Lamborghini",
+            "seats": 2
+        },
+        "price": 1400,
+        "pickupLocation": "Vancouver"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2021,
+            "model": "S600",
+            "type": "Sedan",
+            "plateNum": "asdffdaks",
+            "make": "Mercedes",
+            "seats": 4
+        },
+        "price": 1100,
+        "pickupLocation": "Vancouver"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2019,
+            "model": "F-150",
+            "type": "Truck",
+            "plateNum": "daskf",
+            "make": "Ford",
+            "seats": 6
+        },
+        "price": 400,
+        "pickupLocation": "Vancouver"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2019,
+            "model": "Sedona",
+            "type": "Minivan",
+            "plateNum": "asdfgs",
+            "make": "Kia",
+            "seats": 2
+        },
+        "price": 200,
+        "pickupLocation": "Vancouver"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2020,
+            "model": "Rav4",
+            "type": "SUV",
+            "plateNum": "afsdf",
+            "make": "Totyota",
+            "seats": 5
+        },
+        "price": 122,
+        "pickupLocation": "Van"
+    },
+    {
+        "car": {
+            "color": "Black",
+            "fuelType": "Gas",
+            "year": 2021,
+            "model": "720S",
+            "type": "Sports Car",
+            "plateNum": "dgsdag",
+            "make": "McLaren",
+            "seats": 2
+        },
+        "price": 2000,
+        "pickupLocation": "Vancouver"
+    }
+]}

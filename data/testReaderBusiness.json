@@ -1,0 +1,30 @@
+{"listings": [
+  {
+    "car": {
+      "color": "White",
+      "fuelType": "Gas",
+      "year": 2022,
+      "model": "Civic",
+      "type": "Sedan",
+      "plateNum": "D48HP9",
+      "make": "Honda",
+      "seats": 5
+    },
+    "price": 120,
+    "pickupLocation": "VAN"
+  },
+  {
+    "car": {
+      "color": "Black",
+      "fuelType": "Gas",
+      "year": 2012,
+      "model": "RAV4",
+      "type": "SUV",
+      "plateNum": "JG745S",
+      "make": "Toyota",
+      "seats": 5
+    },
+    "price": 150,
+    "pickupLocation": "VAN"
+  }
+]}
